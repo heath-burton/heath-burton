@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Heath a Junior Software Engineer with 6 months experience
+- 👋 Hi, I’m Heath a Junior Software Engineer who started coding commercially in November 2020
 - 👀 I’m interested in JavaScript and building cool apps
 - 🌱 I’m currently learning TypeScript, React & Mocha/Chai/Sinon.js
-- 💞️ I’m looking to collaborate on anyhting interesting
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 You can reach me at heath@occupytech.io
 
 <!---
